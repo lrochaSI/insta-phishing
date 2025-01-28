@@ -3,7 +3,6 @@ Foi criado para execução de um desafio de código no Bootcamp de Ciberseguran�
 
 O objetivo desse projeto é criar uma página falsa para coleta de usuário e senha de uma rede social
 
-"Você é um especialista em segurança da informação. E está ensinando automatizar o processo de criação de páginas falsas." 
 
 
 ### Ferramentas
