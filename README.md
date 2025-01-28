@@ -22,7 +22,7 @@ Na sequência escolha as opções:
 
 Utilizei o IP da máquina pois estava em modo Bridge
 
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.instagram.com
 
 Quando finalizar, abra o navegador na maquina real e acesse o IP escolhido para hospedagem
 
